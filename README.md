@@ -7,8 +7,6 @@
 - Information Security 101: Certifications and Degrees (Coming soon.)
 - Information Security 101: Careers and Career Paths (Coming soon.)
 
-#### Reading list primer on Information Security - ported over from my blog, to its new home here on GitHub.
-
 #### Follow me on Twitter:
 [![Twitter Follow](https://img.shields.io/twitter/follow/MalwareJedi.svg?style=social&label=Follow%20%40MalwareJedi)](https://twitter.com/MalwareJedi)
 
