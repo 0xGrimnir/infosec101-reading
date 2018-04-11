@@ -3,7 +3,7 @@
 
 ###### This list will be modified over time to reflect the materials that I find useful to the study of Information Security in general - and should only be used as a "general" list of resources that can promote intellectual growth in the field. This list is not exhaustive, or hyper-focused on any specific sub-field of InfoSec/CompSci/IT. As such, feel free to bookmark/star the list, and check back for changes. 
 --- 
-
+## Table of Contents
 - [Reading List](#reading-list)
   - [Information Security](#information-security)
   - [Digital Forensics, Incident Response, and Malware Analysis](#digital-forensics-incident-response-and-malware-analysis)
