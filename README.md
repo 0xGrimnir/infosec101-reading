@@ -1,11 +1,15 @@
-# Diving into the Deep, Dark Waters of Information Security
-#### Primer on Information Security - ported over from my blog, to it's new home here on GitHub.\
+# Information Security 101: The Reading List
+#### Reading list primer on Information Security - ported over from my blog, to it's new home here on GitHub.
 
+###### This list will be modified over time to reflect the materials that I find useful to the study of Information Security in general - and should only be used as a "general" list of resources that can promote intellectual growth in the field. This list is not exhaustive, or hyper-focused on any specific sub-field of InfoSec/CompSci/IT. As such, feel free to bookmark/star the list, and check back for changes. 
 --- 
 
 - [Reading List](#reading-list)
-  - Test
-  - Test
+  - Information Security
+  - Digital Forensics, Incident Response, and Malware Analysis
+  - Software Engineering and Security
+  - Criminal Justice and Intelligence
+  - General Reading
 - [Resource Centers](#resource-centers)
 - [The Information Security Community](#the-information-security-community)
 - [Conventions](#conventions)
@@ -17,26 +21,82 @@
 
 ## Reading List
 
----
+These books are listed in no order, other than subject-based categorization.
+<!--| **** | Author: . 20. | [Purchase](). |--><!--Table line template-->
+### Information Security
 
-## Resource Centers
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **Penetration Testing** | Author: Georgia Weidman. 2014. | [Purchase](https://www.nostarch.com/pentesting). |
+| **The Hacker Playbook 2** | Author: Peter Kim. 2015. | [Purchase](https://www.amazon.com/dp/1512214566/). |
+| **Metasploit: The Pentration Tester's Guide** | Author: Dave Kennedy et al. 2011. | [Purchase](https://nostarch.com/metasploit). |
+| **A Bug Hunter's Diary** | Author: Tobias Klein. 2011. | [Purchase](https://www.nostarch.com/bughunter). |
+| **RTFM: Red Team Field Manual** | Author: Ben Clark. 2014. | [Purchase](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504). |
+| **Defensive Security Handbook** | Author: Amanda Berlin, and Lee Brotherston. 2017. | [Purchase](http://shop.oreilly.com/product/0636920051671.do). |
+| **Attacking Network Protocols** | Author: James Forshaw. 2017. | [Purchase](https://nostarch.com/networkprotocols). |
+| **Serious Cryptography** | Author: Jean-Philippe Aumasson. 2017. | [Purchase](https://nostarch.com/seriouscrypto) |
+| **BTFM: Blue Team Field Manual** | Author: Alan White, & Ben Clark. 2017. | [Purchase](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X). |
+| **Hash Crack: Password Cracking Manual** | Author: Joshua Picolet. 2017. | [Purchase](https://www.amazon.com/gp/product/1975924584/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). |
 
----
+### Digital Forensics, Incident Response, and Malware Analysis
 
-## The Information Security Community
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **Intelligence-Driven Incident Response** | Author: Scott Roberts. 2017. | [Purchase](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948). |
+| **Practical Forensics Imaging** | Author: Bruce Nikkel. 2016. | [Purchase](https://www.amazon.com/Practical-Forensic-Imaging-Securing-Evidence/dp/1593277938). |
+| **Incident Response and Computer Forensics** | Author: Jason Luttgens et al. 2014. | [Purchase](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684). |
+| **The Art of Memory Forensics** | Author: Michael Ligh et al. 2014. | [Purchase](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098). |
+| **Windows Registry Forensics** | Author: Harlan Carvey. 2011. | [Purchase](https://www.amazon.com/Windows-Registry-Forensics-Advanced-Forensic/dp/1597495808). |
+| **Windows Forensics Analysis** | Author: Harlan Carvey. 2014. | [Purchase](https://www.amazon.com/Windows-Forensic-Analysis-Toolkit-Fourth/dp/0124171575). |
+| **Practical Malware Analysis** | Author: Michael Sikorski et al. 2012. | [Purchase](https://nostarch.com/malware). |
+| **Practical Reverse Engineering** | Author: Bruce Dang et al. 2014. | [Purchase](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315). |
+| **Practical Packet Analysis** | Author: Chris Sanders. 2017. | [Purchase](https://nostarch.com/packetanalysis3). |
 
----
+### Software Engineering and Scripting
+#### PowerShell
 
-## Conventions
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **Learn Windows PowerShell in a Month of Lunches** | Author: Don Jones et al. 2016. | [Purchase](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=KGY5VXBX98VVFJ7P8WMB). |
+| **Learn PowerShell Scripting in a Month of Lunches** | Author: Don Jones et al. 2017. | [Purchase](https://www.amazon.com/Learn-PowerShell-Scripting-Month-Lunches/dp/1617295094). |
+| **Windows Server 2016 Automation with PowerShell Cookbook** | Author: Thomas Lee. 2012. | [Purchase](https://www.amazon.com/dp/1787122042/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1787122042&pd_rd_wg=7YraF&pd_rd_r=A17DMVP48K4QXHC77SA4&pd_rd_w=Uk2Hb). |
 
----
+#### Python
 
-## Certifications and Degrees
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **Black Hat Python** | Author: Justin Seitz. 2014. | [Purchase](https://nostarch.com/blackhatpython). |
+| **Grey Hat Python** | Author: Justin Seitz. 2009. | [Purchase](https://nostarch.com/ghpython.htm). |
+| **Violent Python** | Author: T.J. O’Connor. 2012. | [Purchase](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579). |
+| **Learn Python the Hard Way** | Author: Zed Shaw. 2013. | [Purchase](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914). |
+| **Python Crash Course** | Author: Eric Matthes. 2015. | [Purchase](https://nostarch.com/pythoncrashcourse). |
+| **Automate the Boring Stuff with Python** | Author: Al Sweigart. 2015. | [Purchase](https://nostarch.com/automatestuff). |
 
----
+#### C++
 
-## Getting Practical Experience
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **The C++ Programming Language** | Author: Bjarne Stroustrup. 2013. | [Purchase](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840). |
 
----
+#### Golang
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **The Go Programming Language** | Author: Alan Donovan. 2015. | [Purchase](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440). |
 
-## One Last Thing
+### Criminal Justice and Intelligence
+
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **Studies in Computational Intelligence (Vol. 593)** | Author: Mohamed Chawki. 2015. | [Purchase](https://link.springer.com/book/10.1007/978-3-319-15150-2). |
+| **Psychology of Intelligence Analysis** | Author: Richards Heurer. 1999. | [Read Free (CIA.GOV)](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis). |
+
+### Assorted Reading
+
+| Book Title | Additional Information | Purchase |
+| --- | --- | --- |
+| **Unmasking the Social Engineer** | Author: Christopher Hadnagy. 2014. | [Purchase](https://www.wiley.com/en-us/Unmasking+the+Social+Engineer%3A+The+Human+Element+of+Security-p-9781118608579). |
+| **The Art of War** | Author: Sun Tzu. 5th century BC. | [Read for Free](http://classics.mit.edu/Tzu/artwar.html). |
+| **Operating Systems: Internals and Design Principles** | Author: William Stallings. 2014. | [Purchase](https://www.amazon.com/Operating-Systems-Internals-Design-Principles/dp/0133805913). |
+| **The Confidence Game: Why We Fall for It Every Time** | Author: Maria Konnikova. 2016. | [Purchase](https://www.amazon.com/Confidence-Game-Fall-Every-Time-ebook/dp/B00WDP836S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=). |
+| **The Linux Command Line** | Author: William Shotts. 2012. | [Purchase](https://nostarch.com/tlcl). |
+| **Discrete Mathematics and Its Applications** | Author: Kenneth Rosen. 2011. | [Purchase](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=zg_bs_13913_5?_encoding=UTF8&psc=1&refRID=5AYXKX5VFRW97RAMJ5TN). |
