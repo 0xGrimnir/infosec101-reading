@@ -7,9 +7,9 @@
 - [Reading List](#reading-list)
   - [Information Security](#information-security)
   - [Digital Forensics, Incident Response, and Malware Analysis](#digital-forensics-incident-response-and-malware-analysis)
-  - [Software Engineering and Security](#software-engineering-and-security)
+  - [Software Engineering and Scripting](#software-engineering-and-scripting)
   - [Criminal Justice and Intelligence](#criminal-justice-and-intelligence)
-  - [General Reading](#general-reading)
+  - [Assorted Reading](#assorted-reading)
   
 ---
 
