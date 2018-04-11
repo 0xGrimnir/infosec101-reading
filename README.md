@@ -5,18 +5,12 @@
 --- 
 
 - [Reading List](#reading-list)
-  - Information Security
-  - Digital Forensics, Incident Response, and Malware Analysis
-  - Software Engineering and Security
-  - Criminal Justice and Intelligence
-  - General Reading
-- [Resource Centers](#resource-centers)
-- [The Information Security Community](#the-information-security-community)
-- [Conventions](#conventions)
-- [Certifications and Degrees](#certifications-and-degrees)
-- [Getting Practical Experience](#getting-practical-experience)
-- [One Last Thing](#one-last-thing)
-
+  - [Information Security](#information-security)
+  - [Digital Forensics, Incident Response, and Malware Analysis](#digital-forensics-incident-response-and-malware-analysis)
+  - [Software Engineering and Security](#software-engineering-and-security)
+  - [Criminal Justice and Intelligence](#criminal-justice-and-intelligence)
+  - [General Reading](#general-reading)
+  
 ---
 
 ## Reading List
