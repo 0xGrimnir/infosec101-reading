@@ -10,7 +10,11 @@
   - [Software Engineering and Scripting](#software-engineering-and-scripting)
   - [Criminal Justice and Intelligence](#criminal-justice-and-intelligence)
   - [Assorted Reading](#assorted-reading)
-  
+- [Resource Centers and Information Security News](#resource-centers-and-information-security-news)
+  - [SANS](#sans)
+  - [NIST](#nist)
+  - [OWASP](#owasp)
+  - [Other News Sources](#other-news-sources)
 ---
 
 ## Reading List
@@ -94,3 +98,47 @@ These books are listed in no order, other than subject-based categorization.
 | **The Confidence Game: Why We Fall for It Every Time** | Author: Maria Konnikova. 2016. | [Purchase](https://www.amazon.com/Confidence-Game-Fall-Every-Time-ebook/dp/B00WDP836S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=). |
 | **The Linux Command Line** | Author: William Shotts. 2012. | [Purchase](https://nostarch.com/tlcl). |
 | **Discrete Mathematics and Its Applications** | Author: Kenneth Rosen. 2011. | [Purchase](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=zg_bs_13913_5?_encoding=UTF8&psc=1&refRID=5AYXKX5VFRW97RAMJ5TN). |
+
+---
+
+## Resource Centers and Information Security News
+
+### SANS
+
+| Site Name |
+| --- |
+| **[The Information Security Reading Room](https://www.sans.org/reading_room/)** |
+| **[The Internet Storm Center](http://isc.sans.org/)** |
+| **[SANS’ DFIR Blog](https://digital-forensics.sans.org/blog)** |
+| **[SANS’ Penetration Testing Blog](https://pen-testing.sans.org/blog)** |
+| **[SANS’ Newsletters](https://www.sans.org/newsletters/)** |
+
+### NIST
+
+| Site Name |
+| --- |
+| **[The NIST Computer Security Resource Center](http://csrc.nist.gov/)** |
+| **[NIST’s Special Publications](https://beta.csrc.nist.gov/Publications/Search?requestControlFamilyList=&requestSeriesList=1,&requestStatusList=1,3,&requestDisplayOption=basic)** |
+| **[NIST’s Drafts for Public Comment](https://beta.csrc.nist.gov/Publications/Search?requestControlFamilyList=&requestSeriesList=1,2,3,4,5,6,7,8,9,10,11,12,13,&requestStatusList=1,&requestDisplayOption=basic)** |
+
+### OWASP
+
+| Site Name |
+| --- |
+| **[OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)** |
+| **[OWASP Cheat Sheets](https://www.owasp.org/index.php/Cheat_Sheets)** |
+| **[OWASP Categories](https://www.owasp.org/index.php/OWASP_Categories)** |
+
+### Other News Sources
+
+| Site Name |
+| --- |
+| **[Krebs on Security](https://krebsonsecurity.com/)** |
+| **[Dark Readings](http://www.darkreading.com/)** |
+| **[Wired](http://www.wired.com/)** |
+| **[Ars Technica](http://arstechnica.com/)** |
+| **[Network World](http://www.networkworld.com/)** |
+| **[SC Magazine](http://www.scmagazine.com/)** |
+| **[Lenny Zeltser’s Blog](https://zeltser.com/blog/)** |
+| **[VulnHub](https://www.vulnhub.com/)** |
+| **[ZDNet: Zero Day](http://www.zdnet.com/blog/security/)** |
