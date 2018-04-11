@@ -1,4 +1,12 @@
 # Information Security 101: The Reading List
+
+### Part of my Information Security 101 Series.
+- [Information Security 101: The Reading List](https://github.com/MalwareJedi/infosec101-reading)
+- Information Security 101: The Community (Coming soon.)
+- Information Security 101: A Semi-Open Source Information Security Curriculum (Coming soon.)
+- Information Security 101: Certifications and Degrees (Coming soon.)
+- Information Security 101: Careers and Career Paths (Coming soon.)
+
 #### Reading list primer on Information Security - ported over from my blog, to it's new home here on GitHub.
 
 ###### This list will be modified over time to reflect the materials that I find useful to the study of Information Security in general - and should only be used as a "general" list of resources that can promote intellectual growth in the field. This list is not exhaustive, or hyper-focused on any specific sub-field of InfoSec/CompSci/IT. As such, feel free to bookmark/star the list, and check back for changes. 
