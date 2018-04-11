@@ -65,7 +65,7 @@ These books are listed in no order, other than subject-based categorization.
 | --- | --- | --- |
 | **Learn Windows PowerShell in a Month of Lunches** | Author: Don Jones et al. 2016. | [Purchase](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=KGY5VXBX98VVFJ7P8WMB). |
 | **Learn PowerShell Scripting in a Month of Lunches** | Author: Don Jones et al. 2017. | [Purchase](https://www.amazon.com/Learn-PowerShell-Scripting-Month-Lunches/dp/1617295094). |
-| **Windows Server 2016 Automation with PowerShell Cookbook** | Author: Thomas Lee. 2012. | [Purchase](https://www.amazon.com/dp/1787122042/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1787122042&pd_rd_wg=7YraF&pd_rd_r=A17DMVP48K4QXHC77SA4&pd_rd_w=Uk2Hb). |
+| **Windows Server 2016 Automation with PowerShell Cookbook** | Author: Thomas Lee. 2017. | [Purchase](https://www.amazon.com/dp/1787122042/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1787122042&pd_rd_wg=7YraF&pd_rd_r=A17DMVP48K4QXHC77SA4&pd_rd_w=Uk2Hb). |
 
 #### Python
 
