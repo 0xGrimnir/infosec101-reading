@@ -9,6 +9,9 @@
 
 #### Reading list primer on Information Security - ported over from my blog, to its new home here on GitHub.
 
+
+[![Follow me on Twitter: ](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/MalwareJedi)
+
 --- 
 ## Table of Contents
 - [Reading List](#reading-list)
