@@ -43,6 +43,8 @@ These books are listed in no order, other than subject-based categorization.
 | **Serious Cryptography** | Author: Jean-Philippe Aumasson. 2017. | [Purchase](https://nostarch.com/seriouscrypto) |
 | **BTFM: Blue Team Field Manual** | Author: Alan White, & Ben Clark. 2017. | [Purchase](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X). |
 | **Hash Crack: Password Cracking Manual** | Author: Joshua Picolet. 2017. | [Purchase](https://www.amazon.com/gp/product/1975924584/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). |
+| **The Web Application Hacker's Handbook** | Author: Daffyd Stuttard et al. 2011 | [Purchase](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) |
+| **The Browser Hacker's Handbook** | Author: Christian Frichot et al. 2014. | [Purchase](https://www.wiley.com/en-us/The+Browser+Hacker%27s+Handbook-p-9781118662090) |
 
 ### Digital Forensics, Incident Response, and Malware Analysis
 
